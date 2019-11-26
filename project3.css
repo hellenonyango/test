@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#main {
+  background-color: #f7f3e6;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#header {
+  width: 100%;
+  max-width: 852px;
+  height: auto;
+}
+
+#header-img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin-top: 10px;
+  padding-top: 10px;
+}
